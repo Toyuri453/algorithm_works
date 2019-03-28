@@ -116,7 +116,7 @@ int main(){
 	printf("1. Simple Matching: The String Starts From The %d Charactors Of The Origin String.\n\n", SimpleMatching(string, slen, ipts)+1);
 	//GetNext(string, slen, next);
 	KmpMatching(string, ipts, next);
-	printf("\n\nClass: WangLuo172		Name: WuZhaoXi		No: 201709603040\n\n");
+	
 
 	
 	return 0;
