@@ -114,6 +114,6 @@ int main()
 	ShowData(L);
 	RemoveData(L);
 	ShowData(L);
-	printf("\n\nClass: WangLuo172		Name: WuZhaoXi		No: 201709603040\n\n");
+	
 	return 0;
 }
