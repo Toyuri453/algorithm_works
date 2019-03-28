@@ -71,6 +71,6 @@ int main()
 	Pop(&s);
 	Push(&s);
 	ShowStackData(&s);
-	printf("\n\nClass: WangLuo172		Name: WuZhaoXi		No: 201709603040\n\n");
+	
 	return 0;
 }
