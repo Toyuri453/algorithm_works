@@ -88,7 +88,7 @@ int main()
 	Insert(&q);
 	printf("\n\nThe Queue Length Is: %d \n\n", GetQueueLength(&q));
 	ShowData(q);
-	printf("\n\nClass: WangLuo172		Name: WuZhaoXi		No: 201709603040\n\n");
+	
 	
 	return 0;
 }
