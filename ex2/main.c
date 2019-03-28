@@ -89,6 +89,6 @@ int main()
 	ShowList(head);
 	DelData(head);
 	ShowList(head);
-	printf("\n\nClass: WangLuo172		Name: WuZhaoXi		No: 201709603040\n\n");
+	
 	return 0;
 }
