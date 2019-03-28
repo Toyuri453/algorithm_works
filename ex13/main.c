@@ -79,6 +79,6 @@ int main()
 		printf("  %d", Slist[ii]);
 	}printf("\n");
 	
-	printf("\n\nClass: WangLuo172		Name: WuZhaoXi		No: 201709603040\n\n");
+	
 	return 0;
 }
