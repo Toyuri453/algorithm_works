@@ -54,7 +54,7 @@ int main()
 	printf("InOrder: ");InShowBiTree(t);printf("\n\n");
 	printf("PostOrder: ");PostShowBiTree(t);printf("\n\n");
 	//abc@@de@g@@f@@@
-		printf("\n\nClass: WangLuo172		Name: WuZhaoXi		No: 201709603040\n\n");
+		
 	
 	return 0;
 }
