@@ -90,7 +90,7 @@ int main(){
 	
 	triple *b = CreateMatx(a);
 	Reverse(b);
-		printf("\n\nClass: WangLuo172		Name: WuZhaoXi		No: 201709603040\n\n");
+		
 	return 0;
 	
 }
